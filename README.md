@@ -1,7 +1,7 @@
 <div>
-<img src="https://kasroudra-stats-card.onrender.com/user?user=kozlovkv&layout=compact&theme=buefy" width="50%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KozlovKV&theme=solarized" width="40%" />
 
-<img src="https://kasroudra-stats-card.onrender.com/lang?user=KasRoudra&layout=compact&type=donut&theme=gruvbox_light" width="40%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KozlovKV&theme=solarized" width="40%" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KozlovKV&theme=solarized" width="80.5%" />
 </div>
-
-*[Cards source](https://github.com/KasRoudra/github-stats-card)*
